@@ -1,7 +1,7 @@
 name: Gone to the Dogs
 favicon: null
-layout_spectrum: 0.7181646060198545
-typography_spectrum: 0.5489008468575776
+layout_spectrum: 0.85397
+typography_spectrum: 0.68625
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0.8125
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
