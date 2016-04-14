@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Gone to the Dogs]]></title>
         <description><![CDATA[Gone to the Dogs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gone-to-the-dogs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 01:55:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 02:34:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gone-to-the-dogs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The morning ritual is to bark (thanks, Cleo) and sing (thanks, Bo). </p>]]></description>
+            <link>https://thegrid.ai/gone-to-the-dogs/5c61dd20-4d6c-4eb6-8795-04111cf183da/index.html</link>
+            <guid isPermaLink="false">5c61dd20-4d6c-4eb6-8795-04111cf183da</guid>
+            <pubDate>Thu, 14 Apr 2016 02:34:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e40a155f-334e-48cf-8a08-2742ea0f1b6d.jpg">]]></description>
-            <link>undefinedcad0243d-5dd9-4e25-8f13-991196ad6ece/index.html</link>
+            <link>https://thegrid.ai/gone-to-the-dogs/cad0243d-5dd9-4e25-8f13-991196ad6ece/index.html</link>
             <guid isPermaLink="false">cad0243d-5dd9-4e25-8f13-991196ad6ece</guid>
             <pubDate>Thu, 14 Apr 2016 01:55:56 GMT</pubDate>
         </item>
